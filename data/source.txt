@@ -1,9 +1,11 @@
+'managerial_accounting.csv': https://www.kaggle.com/datasets/jazidesigns/managerial-accounting
+'financial_accounting.csv': https://www.kaggle.com/datasets/jazidesigns/financial-accounting
+'Online Retail.xlsx': https://archive.ics.uci.edu/dataset/352/online+retail
+
+Unused:
 'Financial Sample.xlsx': https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download
 'Bank Transaction Data.xlsx': https://www.kaggle.com/datasets/apoorvwatsky/bank-transaction-data
 'New York Stock Exchange': https://www.kaggle.com/datasets/dgawlik/nyse
-'Online Retail.xlsx': https://archive.ics.uci.edu/dataset/352/online+retail
 'Fraud.csv': https://www.kaggle.com/datasets/vardhansiramdasu/fraudulent-transactions-prediction
 'test/train data credit card.csv': https://www.kaggle.com/datasets/shelvigarg/credit-card-buyers
 'Churn Modeling.csv': https://www.kaggle.com/datasets/santoshd3/bank-customers
-'managerial_accounting.csv': https://www.kaggle.com/datasets/jazidesigns/managerial-accounting
-'financial_accounting.csv': https://www.kaggle.com/datasets/jazidesigns/financial-accounting

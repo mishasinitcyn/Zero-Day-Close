@@ -1,8 +1,8 @@
-# Unstage data
-/data/*
+# # Unstage data
+# /data/*
 
-# Only commit data used in EDA
-!/data/financial_accounting.csv
-!/data/managerial_accounting.csv
-!/data/Bank Transaction Data.xlsx
-!/data/source.txt
+# # Only commit data used in EDA
+# !/data/financial_accounting.csv
+# !/data/managerial_accounting.csv
+# !/data/Bank Transaction Data.xlsx
+# !/data/source.txt
