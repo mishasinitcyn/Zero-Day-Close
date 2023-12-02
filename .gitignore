@@ -6,3 +6,7 @@
 # !/data/managerial_accounting.csv
 # !/data/Bank Transaction Data.xlsx
 # !/data/source.txt
+
+.ipynb_checkpoints
+/EDA/.ipynb_checkpoints
+.DS_STORE
