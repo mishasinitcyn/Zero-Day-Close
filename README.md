@@ -16,3 +16,5 @@ This is a proof-of-concept to a rapidly developing state-of-the-art paradigm in 
 * [Scikit Learn](https://scikit-learn.org/stable/)
 * [Scipy Statistics](https://scipy.org/)
 * [Seaborn](https://seaborn.pydata.org/)
+
+To install, run `pip install -r requirements.txt`
